@@ -10,5 +10,14 @@ body{background-image: url(../img/backs.jpg);
 	height: 50px;
 }
 
-.container1{background-color: #22262a;}
+.container1{background-color: #22262a;
+	        position: sticky;
+	        top: 0px;
+	        
+
+}
+
+.trailers{
+	background-color: #22262a;
+}
 

@@ -1,4 +1,4 @@
-body{background-image: url(../img/backs.jpg); 
+body{background-image: url(../img/capamericawalp.jpg); 
     background-size: contain;
     background-size: auto;
     background-attachment: fixed;
@@ -11,8 +11,7 @@ body{background-image: url(../img/backs.jpg);
 }
 
 .container1{background-color: #22262a;
-	        position: sticky;
-	        top: 0px;
+	        
 	        
 
 }

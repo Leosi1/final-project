@@ -76,3 +76,7 @@ body{background-image: url(../img/capamericawalp.jpg);
 }
 
 
+.facts{
+	display: flex;
+  justify-content: space-around;
+}

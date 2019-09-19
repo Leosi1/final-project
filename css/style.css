@@ -5,6 +5,8 @@ body{background-image: url(../img/capamericawalp.jpg);
 }
 
 
+    
+
 
 .marvellogo{
 	height: 50px;
@@ -64,6 +66,9 @@ body{background-image: url(../img/capamericawalp.jpg);
 
 .h4{color: red;}
 
+.h1{color: red;}
+
+
 
 .TOP{color: blue;
  size: 20px; 
@@ -79,4 +84,25 @@ body{background-image: url(../img/capamericawalp.jpg);
 .facts{
 	display: flex;
   justify-content: space-around;
+}
+
+.pazlebi {
+
+	display: flex;
+  justify-content: space-around;
+  margin-top: 30px;
+}
+
+
+.pazlebi2 {
+
+	display: flex;
+  justify-content: space-around;
+  margin-top: 30px;
+}
+
+
+.comics{
+margin: 50px;
+
 }
